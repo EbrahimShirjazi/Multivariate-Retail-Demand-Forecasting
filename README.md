@@ -109,3 +109,8 @@ Group project in the NTNU course IT3212 (Autumn 2025) with [@luchs007](https://g
 | **Decision Tree with GridSearchCV, Neural Network (MLP), five-model comparison** | **me** |
 | **Boosting and bagging ensembles** | **me** |
 | Transfer learning | @pariaznd |
+
+## Related projects
+
+- [Natural-Scene-Image-Classification-CNN-vs-Classical-ML](https://github.com/EbrahimShirjazi/Natural-Scene-Image-Classification-CNN-vs-Classical-ML): CNN vs. classical ML for classifying natural scene photos
+- [Retail-Data-Preprocessing-Pipeline](https://github.com/EbrahimShirjazi/Retail-Data-Preprocessing-Pipeline): cleaning and preparing the Favorita store-sales data
